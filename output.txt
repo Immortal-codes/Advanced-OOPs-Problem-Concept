@@ -1,0 +1,3 @@
+Car Details: 
+Mileage: 700
+Weight: 1000
